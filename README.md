@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+Hii guys !
+I am hardik anand . A coder from chandigarh , India .
+
+I love to code ! 
